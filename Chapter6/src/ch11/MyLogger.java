@@ -77,6 +77,4 @@ public class MyLogger {
 	public void warning(String msg) {
 		logger.warning(msg); 
 	}
-	
-	
 }
